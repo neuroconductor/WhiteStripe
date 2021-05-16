@@ -16,3 +16,8 @@ sticker\.png
 ^docs$
 ^pkgdown$
 ^CRAN-RELEASE$
+^DESCRIPTION\.bak$
+^\.github$
+^autoci\.yml$
+^autoci_pkgdown\.yml$
+^tic\.R$
